@@ -1,0 +1,60 @@
+#container {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: #DBE3F0;
+
+	text-align: left;
+
+	color: #484848;
+}
+
+#content-professional {
+	font-size: 42px;
+	font-family: Veranda, sans-serif;
+}
+
+h1 {
+	font-size: 64px;
+	font-family: Veranda, sans-serif;
+	margin-bottom: -25px;
+}
+
+h2 {
+	font-size: 18px;
+	font-family: Veranda;
+	margin-bottom: -6px;
+}
+
+h3 {
+	font-size: 26px;
+	font-family: Veranda, sans-serif;
+	margin-bottom: -10px;
+}
+
+h4 {
+	font-size: 22px;
+	font-family: Veranda, sans-serif;
+	margin-bottom: -10px;
+}
+
+li {
+	font-size: 18px;
+	font-family: Veranda;
+	color: #596171;
+	text-align: left;
+	list-style-type: none;
+}
+
+#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #C4CECD;
+
+	border-radius: 15px;
+	height: 100px;
+}
